@@ -94,10 +94,17 @@ Make sure Chrome is active and in focus when you launch the script.
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+## 💬 Feedback or Suggestions?
+
+If you have feedback, questions, or ideas for more utility tools you'd like to see, feel free to reach out!
+
+📧 **Email**: [billierangwani@gmail.com](mailto:billierangwani@gmail.com)
+
+---
 
 ## ✒️ Author & Credits
 
-Made with ❤️ by **Billy Wellington**
+✨ Made with ❤️ by **Billy Wellington**
 
 - [LinkedIn](https://www.linkedin.com/in/billywellington/)
 - Feel free to fork, contribute, or star ⭐ the repo!
